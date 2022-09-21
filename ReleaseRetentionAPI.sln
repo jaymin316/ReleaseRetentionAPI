@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReleaseRetentionWebAPI", "ReleaseRetentionWebAPI\ReleaseRetentionWebAPI.csproj", "{5B0F31C7-A92E-45DA-A971-729042F6898E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReleaseRetentionAPI.Tests", "ReleaseRetentionAPITests\ReleaseRetentionAPI.Tests.csproj", "{E65EEA28-9CBA-4341-948C-C2E65940825F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B0F31C7-A92E-45DA-A971-729042F6898E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B0F31C7-A92E-45DA-A971-729042F6898E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B0F31C7-A92E-45DA-A971-729042F6898E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B0F31C7-A92E-45DA-A971-729042F6898E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E65EEA28-9CBA-4341-948C-C2E65940825F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E65EEA28-9CBA-4341-948C-C2E65940825F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E65EEA28-9CBA-4341-948C-C2E65940825F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E65EEA28-9CBA-4341-948C-C2E65940825F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06C43EFB-0C93-408E-B723-67DE5A83C911}
+	EndGlobalSection
+EndGlobal
